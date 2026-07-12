@@ -10,10 +10,16 @@
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/B.E.-CSE_(AI_%26_ML)-2D1B4E?style=for-the-badge&labelColor=0F0C29&color=6D28D9" />
+<img src="https://img.shields.io/badge/Saranathan_College_of_Engineering-2D1B4E?style=for-the-badge&labelColor=0F0C29&color=4C1D95" />
+<img src="https://img.shields.io/badge/📍_Tiruchirappalli,_India-2D1B4E?style=for-the-badge&labelColor=0F0C29&color=5B21B6" />
+
+<br/><br/>
+
+<a href="https://arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://www.linkedin.com/in/arjun-s-aiml"><img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
+<a href="mailto:arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/ARJUN-AIML"><img src="https://img.shields.io/badge/GitHub-ARJUN--AIML-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 
 <br/><br/>
 
@@ -33,86 +39,101 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-I'm an **AI & Machine Learning Engineering** student who builds systems, not scripts. My work sits at the intersection of **software engineering discipline** and **applied AI** — the goal is never "does the model work," it's "does the system hold up in production."
+I'm an **AI & Machine Learning Engineering** undergraduate who builds systems, not scripts. My work sits at the intersection of **software engineering discipline** and **applied AI** — the goal is never "does the model work," it's "does the system hold up in production."
 
-Most of what I build follows the same loop: identify a real bottleneck, design an architecture that respects constraints (latency, memory, cost), implement it with proper API boundaries, and measure the outcome instead of assuming it.
+Every project I ship follows the same loop: identify a real bottleneck, design an architecture that respects constraints (latency, memory, cost), implement it with clean API boundaries, and measure the outcome instead of assuming it. That discipline has produced a **51% CPU inference latency reduction** on a real-time detection pipeline and **sub-14ms** semantic search with zero API dependency.
 
 **What that looks like in practice:**
 
-- 🧠 Designing inference pipelines that are optimized for CPU-bound, edge-constrained environments — not just GPU benchmarks
-- 🏗️ Structuring backend services (FastAPI, Node/Express) with clear domain boundaries, not monoliths
+- 🧠 Designing inference pipelines optimized for CPU-bound, edge-constrained environments — not just GPU benchmarks
+- 🏗️ Structuring backend services (FastAPI, Node/Express, Flask) with clear domain boundaries, not monoliths
 - 🔍 Building retrieval and search systems where correctness and latency are both first-class requirements
 - 🌐 Shipping full-stack products end-to-end — frontend, backend, deployment, and documentation
 - 📊 Treating every project like a system with SLAs — even when the "client" is a hackathon judge or a recruiter
+- 🧮 Backing engineering claims with numbers — 165+ solved on LeetCode, real latency benchmarks, zero-defect code reviews
 
 I care about **engineering judgment** over trend-chasing: I'd rather ship one system with a real performance story (`270ms → 132ms`) than five demos with no benchmarks.
 
 <br clear="right"/>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open_to-AI_/_ML_Internship-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_to-Software_Engineering_Internship-4C1D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_to-Research_Internship-5B21B6?style=for-the-badge" />
+
+</div>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <br/>
 
-## `02` Featured Projects
+## `02` Tech Stack
+
+<br/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,mysql&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,firebase,mysql&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,vscode,postman,linux,wsl&theme=dark" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `03` AI / ML Expertise
+
+<br/>
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Computer Vision** | Applied — production pipeline shipped | YOLOv8n-seg, OpenVINO IR optimization, 80-class COCO tracking with persistent IDs, real-time edge inference |
+| **LLM Integration** | Applied — multi-provider | Groq API, Gemini API (`google-genai` SDK), prompt-engineered translation & explanation pipelines |
+| **NLP / Information Retrieval** | Applied — zero-dependency engine | Custom TF-IDF + cosine similarity, BM25-style IDF weighting, Damerau-Levenshtein fuzzy correction |
+| **Agentic AI** | Applied — multi-agent orchestration | Google ADK, LiteLlm, root-agent/sub-agent/tool architecture (self-correcting code review agent) |
+| **Generative AI** | Applied | Prompt engineering, structured JSON extraction pipelines, response-variance handling |
+| **Classical ML** | Foundational | LightGBM, Random Forest, scikit-learn — structured data modeling & feature engineering |
+| **Deep Learning** | Foundational | TensorFlow/Keras CNN/ANN design, transfer learning (GoogLeNet, SqueezeNet) |
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `04` Featured Projects
 
 <br/>
 
 <details open>
-<summary><b>🎯 YOLO-Vision-X — Real-Time Edge Object Detection</b></summary>
+<summary><b>🎯 YOLO-Vision-X — Real-Time Edge Object Detection & Tracking</b></summary>
 <br/>
 
-**Real-time object detection and tracking system engineered for edge deployment**, where compute is scarce and latency budgets are unforgiving. Built around the idea that a detection model is only as useful as the inference pipeline serving it.
+Real-time object detection and tracking system engineered for **CPU-only edge deployment**. Replaced the Ultralytics wrapper with a hand-optimized native OpenVINO IR pipeline, eliminating GPU dependency entirely while cutting inference latency by more than half.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏗️ Architecture**
-- FastAPI backend serving detection + tracking over WebSocket
-- YOLOv8n-seg model optimized via Intel OpenVINO runtime
-- Server-Sent Events stream for lightweight telemetry clients
-- Persistent object ID tracking layer decoupled from detection layer
-
-**✨ Features**
-- Real-time multi-object tracking with persistent IDs across frames
-- Live telemetry dashboard (latency, FPS, object counts)
-- CSV export of detection + tracking sessions
-- Modular "brick" design — swap detector/tracker independently
-
-</td>
-<td width="50%" valign="top">
-
-**📈 Impact / Performance**
-
-| Metric | Before | After |
-|---|---|---|
-| CPU Inference Latency | 270ms | **132ms** |
-| Latency Reduction | — | **51%** |
-| Runtime | PyTorch | OpenVINO |
-
-**🧗 Engineering Challenges**
-- OpenVINO model conversion introduced precision/accuracy tradeoffs requiring careful benchmarking
-- Maintaining stable object IDs under occlusion and re-entry
-
-**💡 What I Learned**
-- Inference optimization is its own engineering discipline, separate from model training
-- Edge deployment constraints should shape architecture from day one, not be retrofitted later
-
-</td>
-</tr>
-</table>
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-2D1B4E?style=flat-square&logo=python&logoColor=A78BFA)
-![FastAPI](https://img.shields.io/badge/FastAPI-2D1B4E?style=flat-square&logo=fastapi&logoColor=A78BFA)
-![OpenVINO](https://img.shields.io/badge/Intel_OpenVINO-2D1B4E?style=flat-square&logo=intel&logoColor=A78BFA)
-![WebSocket](https://img.shields.io/badge/WebSocket-2D1B4E?style=flat-square&logo=socketdotio&logoColor=A78BFA)
-![YOLOv8](https://img.shields.io/badge/YOLOv8--seg-2D1B4E?style=flat-square&logo=ultralytics&logoColor=A78BFA)
-
-<div>
-<a href="#"><img src="https://img.shields.io/badge/Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+| | |
+|---|---|
+| **Stack** | Python · FastAPI · YOLOv8n-seg · Intel OpenVINO · Tailwind CSS · WebSocket / SSE |
+| **Scale** | 80 COCO-class object tracking with persistent IDs across concurrent camera streams |
+| **Performance** | **270ms → 132ms** CPU inference latency (**51% reduction**), ~7.5 FPS real-time, no GPU required |
+| **Security** | Validate-before-commit camera switching — stream never drops to black screen on hardware failure |
+| **Impact** | Multi-model switching persists detector state across streams without restarting the FastAPI server; intrusion-zone alerts, 20Hz SSE telemetry dashboard, auto snapshot gallery, on-demand CSV export |
+| **Repository** | [github.com/ARJUN-AIML/YOLO-Vision-X](https://github.com/ARJUN-AIML/YOLO-Vision-X) |
 
 </details>
 
@@ -122,236 +143,54 @@ I care about **engineering judgment** over trend-chasing: I'd rather ship one sy
 <summary><b>🔎 AnswerFlow — Semantic Knowledge Retrieval Platform</b></summary>
 <br/>
 
-A **client-side semantic search engine** proving that not every retrieval system needs a server round-trip or an external API. Built entirely on TF-IDF + cosine similarity, running fully offline in the browser.
+Client-side semantic search engine proving that not every retrieval system needs a server round-trip or an external API. Entire pipeline — from vectorization to fuzzy correction — runs offline in the browser.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏗️ Architecture**
-- Vectorized TF-IDF index built at load time over a 105-entry knowledge base
-- Cosine similarity ranking with zero backend dependency
-- Fuzzy correction layer for typo-tolerant queries
-- Analytics dashboard tracking query patterns and confidence scores
-
-**✨ Features**
-- Sub-14ms search response, entirely client-side
-- Fuzzy matching and synonym expansion
-- Confidence scoring per result
-- Zero external API calls — fully offline capable
-
-</td>
-<td width="50%" valign="top">
-
-**📈 Impact / Performance**
-
-| Metric | Value |
+| | |
 |---|---|
-| Search Latency | **< 14ms** |
-| API Dependency | **Zero** |
-| Knowledge Base | 105 entries |
-
-**🧗 Engineering Challenges**
-- Achieving low-latency search without a backend meant careful pre-computation of the TF-IDF matrix
-- Balancing fuzzy-match recall against precision to avoid noisy results
-
-**💡 What I Learned**
-- Classical IR techniques (TF-IDF, cosine similarity) are still extremely competitive for bounded-domain search
-- Not every "AI feature" needs an LLM in the loop
-
-</td>
-</tr>
-</table>
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-2D1B4E?style=flat-square&logo=react&logoColor=A78BFA)
-![Vite](https://img.shields.io/badge/Vite-2D1B4E?style=flat-square&logo=vite&logoColor=A78BFA)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-2D1B4E?style=flat-square&logo=tailwindcss&logoColor=A78BFA)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-2D1B4E?style=flat-square&logo=readthedocs&logoColor=A78BFA)
-
-<div>
-<a href="#"><img src="https://img.shields.io/badge/Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+| **Stack** | React 19 · Vite 8 · Tailwind CSS v4 · Framer Motion · NLP · JavaScript (ES6+) |
+| **Scale** | Zero-dependency retrieval engine, fully client-side, no backend infrastructure |
+| **Performance** | **Sub-14ms** query response with precomputed magnitude vectors and BM25-style IDF weighting |
+| **Security** | Zero API dependency — no data leaves the client, no external calls of any kind |
+| **Impact** | 100% offline-functional after first load; Damerau-Levenshtein fuzzy correction, synonym expansion, calibrated confidence scoring |
+| **Repository** | [github.com/ARJUN-AIML/AnswerFlow](https://github.com/ARJUN-AIML/AnswerFlow) · [Live Demo](https://answerflow-chi.vercel.app) |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🌐 Velora — AI Translation Platform</b></summary>
+<summary><b>🌐 Velora — AI-Powered Multilingual Translation Platform</b></summary>
 <br/>
 
-A translation platform that goes beyond word-for-word conversion — pairing **Groq's low-latency LLM inference** with cultural context and explanation layers, across 42 languages.
+Translation platform pairing Groq's ultra-low-latency LLM inference with cultural and linguistic context across 42 languages, deployed serverless with zero production errors.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏗️ Architecture**
-- React frontend deployed on Netlify with serverless Netlify Functions as the API layer
-- Groq API integration for high-throughput, low-latency LLM inference
-- Security-audited request handling to protect API keys and rate-limit abuse
-
-**✨ Features**
-- Translation across 42 languages
-- Contextual + cultural explanation alongside raw translation
-- Voice input/output support
-- Keyboard shortcuts and full mobile responsiveness
-
-</td>
-<td width="50%" valign="top">
-
-**📈 Impact / Performance**
-
-| Metric | Value |
+| | |
 |---|---|
-| Languages Supported | **42** |
-| Inference Provider | Groq (LPU) |
-| Security | Audited |
-
-**🧗 Engineering Challenges**
-- Keeping API keys secure while running on serverless functions with no persistent backend
-- Designing prompts that reliably returned both translation and cultural context in a single call
-
-**💡 What I Learned**
-- Serverless functions are a legitimate lightweight backend for LLM-wrapper products
-- Prompt design is an interface design problem, not just a text problem
-
-</td>
-</tr>
-</table>
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-2D1B4E?style=flat-square&logo=react&logoColor=A78BFA)
-![Groq](https://img.shields.io/badge/Groq_API-2D1B4E?style=flat-square&logo=lightning&logoColor=A78BFA)
-![Netlify](https://img.shields.io/badge/Netlify_Functions-2D1B4E?style=flat-square&logo=netlify&logoColor=A78BFA)
-
-<div>
-<a href="#"><img src="https://img.shields.io/badge/Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=netlify&logoColor=A78BFA" /></a>
-</div>
+| **Stack** | React 19 · Vite · Netlify Functions · Groq API |
+| **Scale** | 42 languages, 4-tier TTS voice fallback, ~600ms build to a 111 kB gzipped bundle |
+| **Performance** | Sub-second translation response via Groq inference; **0 production errors** |
+| **Security** | useRef-based race-condition guards preventing stale state on rapid concurrent requests |
+| **Impact** | 3-stage JSON extraction pipeline absorbs LLM response variance; delivers translation + linguistic explanation + cultural context in one call |
+| **Repository** | [github.com/ARJUN-AIML/Velora](https://github.com/ARJUN-AIML/Velora) · [Live Demo](https://velora-ai-translator.netlify.app) |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>📚 StudyOS — AI Study Planner (Hackathon Build)</b></summary>
+<summary><b>📚 StudyOS — AI Study Planner (6-Hour Hackathon Build)</b></summary>
 <br/>
 
-Built in a **6-hour hackathon sprint**, StudyOS is a full study-management platform combining focus tooling with AI-generated study plans — proof that solid architecture decisions hold up even under extreme time pressure.
+Full-stack AI study management platform — Pomodoro, flashcards, mock tests, analytics, and Groq-powered recommendations — ideated, built, and deployed end-to-end inside a single 6-hour hackathon window.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏗️ Architecture**
-- React frontend, Node/Flask hybrid backend, Firebase for realtime data + auth
-- Groq-powered AI study plan generation engine
-- Modular feature split: Pomodoro, Flashcards, Mock Tests, Analytics
-
-**✨ Features**
-- Pomodoro-based focus sessions
-- Spaced-repetition flashcard system
-- Auto-generated mock tests
-- Analytics dashboard on study patterns
-- AI-generated personalized study planner
-
-</td>
-<td width="50%" valign="top">
-
-**📈 Impact**
-
-| Metric | Value |
+| | |
 |---|---|
-| Build Time | **6 hours** |
-| Team Size | 2 (co-built) |
-| Core Modules | 5 |
-
-**🧗 Engineering Challenges**
-- Coordinating a two-person team across a tight hackathon timeline without sacrificing code quality
-- Wiring Firebase realtime updates cleanly into a Flask-based AI service
-
-**💡 What I Learned**
-- Time pressure rewards clear module boundaries decided upfront
-- AI features add the most value when wrapped around a genuinely useful non-AI core product
-
-</td>
-</tr>
-</table>
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-2D1B4E?style=flat-square&logo=react&logoColor=A78BFA)
-![Node.js](https://img.shields.io/badge/Node.js-2D1B4E?style=flat-square&logo=nodedotjs&logoColor=A78BFA)
-![Flask](https://img.shields.io/badge/Flask-2D1B4E?style=flat-square&logo=flask&logoColor=A78BFA)
-![Firebase](https://img.shields.io/badge/Firebase-2D1B4E?style=flat-square&logo=firebase&logoColor=A78BFA)
-![Groq](https://img.shields.io/badge/Groq-2D1B4E?style=flat-square&logo=lightning&logoColor=A78BFA)
-
-<div>
-<a href="#"><img src="https://img.shields.io/badge/Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🚀 Ascend — Career Intelligence Platform</b></summary>
-<br/>
-
-A **MERN-stack career intelligence platform** that treats internship hunting like a data problem — tracking applications, surfacing resume insights, and mapping skill gaps against target roles.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏗️ Architecture**
-- MongoDB + Express + React + Node, cleanly separated by domain (applications, resume, skills)
-- Dark-themed, recruiter-facing frontend
-- Analytics layer for tracking application funnel outcomes
-
-**✨ Features**
-- Internship/application intelligence tracker
-- Resume insight generation
-- Skill-gap tracking against target job descriptions
-- Career analytics dashboard
-
-</td>
-<td width="50%" valign="top">
-
-**📈 Impact**
-
-| Metric | Value |
-|---|---|
-| Stack | Full MERN |
-| Core Domains | 3 |
-| UI Theme | Dark, recruiter-optimized |
-
-**🧗 Engineering Challenges**
-- Designing a data model flexible enough to represent varied application stages and resume versions
-- Building genuinely useful "insights" rather than vanity metrics
-
-**💡 What I Learned**
-- Internal tools benefit as much from UX polish as consumer products
-- Data modeling decisions made early save significant refactor cost later
-
-</td>
-</tr>
-</table>
-
-**Tech Stack**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-2D1B4E?style=flat-square&logo=mongodb&logoColor=A78BFA)
-![Express](https://img.shields.io/badge/Express-2D1B4E?style=flat-square&logo=express&logoColor=A78BFA)
-![React](https://img.shields.io/badge/React-2D1B4E?style=flat-square&logo=react&logoColor=A78BFA)
-![Node.js](https://img.shields.io/badge/Node.js-2D1B4E?style=flat-square&logo=nodedotjs&logoColor=A78BFA)
-
-<div>
-<a href="#"><img src="https://img.shields.io/badge/Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+| **Stack** | React · Node.js · Python Flask · Firebase · Groq API |
+| **Scale** | 5 integrated modules across a React frontend, Flask backend, and Groq AI layer |
+| **Performance** | Shipped and deployed complete within a 6-hour competition constraint |
+| **Security** | Firebase-authenticated real-time sync for cross-session persistence |
+| **Impact** | Analytics module surfaces data-driven scheduling recommendations from tracked study patterns |
+| **Repository** | [github.com/ARJUN-AIML/AI-Study-Planner](https://github.com/ARJUN-AIML/AI-Study-Planner) |
 
 </details>
 
@@ -361,41 +200,25 @@ A **MERN-stack career intelligence platform** that treats internship hunting lik
 
 <br/>
 
-## `03` Tech Stack
+## `05` Experience
 
 <br/>
 
-**Languages**
+**Java Programming Intern**
+**CodeAlpha** · *Feb 2026*
+*Virtual Internship · MSME Registered · Cert ID: CA/DF1/21283*
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css&theme=dark" />
+Delivered 3 production-ready Java modules — OOP architecture, custom exception hierarchies, and Collections-based data pipelines — all reviewed and certified within deadline.
 
-**Frontend**
+- Designed modular class hierarchies using OOP principles (inheritance, polymorphism, encapsulation); applied Java Collections framework (`ArrayList`, `HashMap`, `LinkedList`) in data structure assignments
+- Implemented robust exception handling with custom exception classes and try-with-resources; all modules passed structured code review with **zero critical defects**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,nextjs&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring&theme=dark" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-
-**Computer Vision**
-
-<img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&theme=dark" />
-
-**Cloud & Deployment**
-
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,heroku&theme=dark" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,wsl&theme=dark" />
+<div>
+<img src="https://img.shields.io/badge/Java-2D1B4E?style=flat-square&logo=openjdk&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/OOP_Design-2D1B4E?style=flat-square&color=2D1B4E&labelColor=2D1B4E" />
+<img src="https://img.shields.io/badge/Collections_Framework-2D1B4E?style=flat-square&color=2D1B4E&labelColor=2D1B4E" />
+<img src="https://img.shields.io/badge/Exception_Handling-2D1B4E?style=flat-square&color=2D1B4E&labelColor=2D1B4E" />
+</div>
 
 <br/>
 
@@ -403,18 +226,21 @@ A **MERN-stack career intelligence platform** that treats internship hunting lik
 
 <br/>
 
-## `04` AI / ML Expertise
+## `06` Achievements
 
 <br/>
 
-| Domain | Experience | Technologies | Applications |
-|---|---|---|---|
-| **Computer Vision** | Real-time detection & tracking, edge inference optimization | YOLOv8, OpenVINO, OpenCV | Edge object detection, ID tracking, telemetry systems |
-| **LLM Integration** | API-based inference, prompt design, multi-provider routing | Groq API, Gemini API, `google-genai` SDK | Translation, chatbots, code review agents, customer support |
-| **Classical ML** | Structured data modeling, feature engineering | LightGBM, Random Forest, scikit-learn | Regression/classification (Kaggle House Prices) |
-| **Deep Learning** | CNN/ANN architecture design, transfer learning | TensorFlow/Keras, GoogLeNet, SqueezeNet | Image classification (CIFAR-10), MATLAB DL pipelines |
-| **Agentic Systems** | Multi-agent orchestration, tool-calling patterns | Google ADK, LiteLlm | Self-correcting code review agent (root/sub-agent/tool pattern) |
-| **Information Retrieval** | Vector-free semantic search, offline-first design | TF-IDF, Cosine Similarity | Client-side knowledge search (AnswerFlow) |
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🧮 Competitive Programming | 165+ problems solved — Arrays, DP, Hash Tables, Trees, Divide & Conquer across Java, Python, MySQL |
+| 🏆 Smart India Hackathon 2025 | Built a national-level competition submission in a team, delivering a technology-driven problem solution |
+| ⚡ 6-Hour AI Hackathon | "AI in Everyday Problems" — ideated and shipped StudyOS, a complete AI-powered study planner, within the competition window |
+| 🔐 Cyber Security Workshop | NIT Tiruchirappalli — covered cybersecurity fundamentals and real-world threat landscape |
+| 📈 Performance Engineering | Delivered 51% inference latency reduction on a production edge CV pipeline |
+
+</div>
 
 <br/>
 
@@ -422,7 +248,120 @@ A **MERN-stack career intelligence platform** that treats internship hunting lik
 
 <br/>
 
-## `05` Current Focus
+## `07` Certifications
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Generative_AI_Professional-2D1B4E?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/Oracle-AI_Foundations_Associate-2D1B4E?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<br/>
+<img src="https://img.shields.io/badge/NPTEL-GPU_Architectures_%26_Programming-2D1B4E?style=for-the-badge&logo=googlescholar&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/NPTEL-Programming_in_Java-2D1B4E?style=for-the-badge&logo=googlescholar&logoColor=A78BFA" />
+<br/>
+<img src="https://img.shields.io/badge/IBM_SkillsBuild-AI_Fundamentals-2D1B4E?style=for-the-badge&logo=ibm&logoColor=054ADA" />
+<img src="https://img.shields.io/badge/Infosys_Springboard-Artificial_Intelligence-2D1B4E?style=for-the-badge&logo=infosys&logoColor=007CC3" />
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-AI_Fundamentals-2D1B4E?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `08` Coding Profiles
+
+<br/>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Arjun_AIML/"><img src="https://img.shields.io/badge/LeetCode-165%2B_Solved-2D1B4E?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2D1B4E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-2D1B4E?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-2D1B4E?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `09` GitHub Analytics
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARJUN-AIML&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=8B5CF6&text_color=C9B8FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-AIML&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C9B8FF" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARJUN-AIML&theme=radical&hide_border=true&background=0F0C29&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9B8FF" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `10` GitHub Trophies
+
+<br/>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ARJUN-AIML&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `11` Contribution Activity
+
+<br/>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARJUN-AIML&theme=react-dark&hide_border=true&bg_color=0F0C29&color=A78BFA&line=8B5CF6&point=C9B8FF" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `12` Contribution Snake
+
+<br/>
+
+<div align="center">
+
+<img width="98%" src="https://raw.githubusercontent.com/ARJUN-AIML/ARJUN-AIML/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+## `13` Current Focus
 
 <br/>
 
@@ -441,14 +380,6 @@ current_focus:
     - Multi-agent orchestration patterns (Google ADK)
     - Edge AI deployment strategies for constrained hardware
 
-  research:
-    - Latency-accuracy tradeoffs in quantized vision models
-    - Retrieval architectures that don't require a vector database
-
-  reading:
-    - Designing Data-Intensive Applications — Martin Kleppmann
-    - System design case studies from high-scale engineering teams
-
   open_to:
     - AI Engineering Internship
     - Machine Learning Internship
@@ -463,127 +394,16 @@ current_focus:
 
 <br/>
 
-## `06` GitHub Analytics
+## `14` Connect
 
 <br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARJUN-AIML&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=8B5CF6&text_color=C9B8FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-AIML&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C9B8FF" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARJUN-AIML&theme=radical&hide_border=true&background=0F0C29&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9B8FF" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARJUN-AIML&theme=react-dark&hide_border=true&bg_color=0F0C29&color=A78BFA&line=8B5CF6&point=C9B8FF" />
-
-<br/>
-
-<img width="98%" src="https://raw.githubusercontent.com/ARJUN-AIML/ARJUN-AIML/output/snake.svg" />
-
-<br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ARJUN-AIML&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-## `07` Coding Profiles
-
-<br/>
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-165%2B_Solved-2D1B4E?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2D1B4E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-2D1B4E?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-2D1B4E?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-## `08` Certifications
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Certified-2D1B4E?style=for-the-badge&logo=oracle&logoColor=F80000" />
-<img src="https://img.shields.io/badge/NPTEL-Certified-2D1B4E?style=for-the-badge&logo=googlescholar&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/IBM-Certified-2D1B4E?style=for-the-badge&logo=ibm&logoColor=054ADA" />
-<img src="https://img.shields.io/badge/Infosys_Springboard-Certified-2D1B4E?style=for-the-badge&logo=infosys&logoColor=007CC3" />
-<img src="https://img.shields.io/badge/MongoDB-Certified-2D1B4E?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-## `09` Achievements
-
-<br/>
-
-| Category | Outcome |
-|---|---|
-| 🧮 Competitive Programming | 165+ problems solved on LeetCode |
-| 🏆 Hackathons | Built StudyOS end-to-end in a 6-hour sprint (team of 2) |
-| 🤖 AI Projects Shipped | 6+ production-quality AI/ML projects across CV, LLMs, and classical ML |
-| ⚙️ Production Deployments | Multiple full-stack apps deployed (Netlify, Vercel, Render) with monitoring-ready configs |
-| 📈 Performance Engineering | Delivered 51% inference latency reduction on an edge CV pipeline |
-| 📄 Documentation | Authored full SDLC documentation + academic abstract for a final-year Spring Boot system |
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-## `10` Open To
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_Internship-Open-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ML_Internship-Open-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software_Engineering_Internship-Open-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Research_Internship-Open-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open_Source-Collaborating-6D28D9?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-## `11` Contact
-
-<br/>
-
-<div align="center">
-
+<a href="mailto:arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://www.linkedin.com/in/arjun-s-aiml"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/ARJUN-AIML"><img src="https://img.shields.io/badge/GitHub-ARJUN--AIML-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-Get_in_Touch-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 
 </div>
 
