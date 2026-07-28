@@ -1,22 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=ARJUN%20S&fontSize=64&fontColor=C9B8FF&fontAlignY=36&desc=AI%20Systems%20Engineer%20·%20Machine%20Learning%20Engineer%20·%20Full-Stack%20AI%20Developer&descAlignY=56&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=ARJUN%20S&fontSize=64&fontColor=C9B8FF&fontAlignY=34&desc=AI%20Systems%20Engineer%20·%20Machine%20Learning%20Engineer%20·%20Full-Stack%20AI%20Developer&descAlignY=54&descAlign=50&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=270ms+→+132ms+CPU+inference+latency+(-51%25);Building+systems+that+hold+under+real+constraints;Open+to+AI+%2F+ML+%2F+Software+Engineering+Internships" />
 
 </div>
 
 <br/>
 
-```
-$ whoami --verbose
-
-> arjun.s
-> role         : AI/ML Engineer, Full-Stack Developer
-> location     : Tiruchirappalli, India
-> education    : B.E. CSE (AI & ML), 3rd Year — Saranathan College of Engineering
-> uptime       : shipping systems, not scripts, since 2023
-> last_metric  : 270ms → 132ms CPU inference latency (-51%) on YOLO-Vision-X
-> status       : OPEN_TO_INTERNSHIP [ AI/ML · Software Engineering · Research ]
-```
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%">
+</p>
 
 <div align="center">
 
@@ -32,15 +26,21 @@ $ whoami --verbose
 
 ## Why this profile, not another AI portfolio
 
-Most student AI repos stop at "the model trained." Mine stop at **"the system holds up under real constraints"** — latency budgets, CPU-only hardware, concurrent users, zero-downtime failure modes. Every project below ships with a number, because a claim without a benchmark is just a vibe.
+Most student AI repos stop at "the model trained." Mine stop at **"the system holds up under real constraints"** — latency budgets, CPU-only hardware, concurrent load, zero-downtime failure modes. Every project below ships with a number.
 
-<table>
-<tr><td width="33%" align="center"><b>51%</b><br/><sub>inference latency cut<br/>(YOLO-Vision-X, GPU→CPU)</sub></td>
-<td width="33%" align="center"><b>&lt;14ms</b><br/><sub>query response, zero backend<br/>(AnswerFlow)</sub></td>
-<td width="33%" align="center"><b>0</b><br/><sub>production errors<br/>(Velora, 42 languages)</sub></td></tr>
+<table align="center">
+<tr>
+<td align="center" width="220"><h3>51%</h3><sub>inference latency cut<br/>YOLO-Vision-X, GPU→CPU</sub></td>
+<td align="center" width="220"><h3>&lt;14ms</h3><sub>query response, zero backend<br/>AnswerFlow</sub></td>
+<td align="center" width="220"><h3>0</h3><sub>production errors<br/>Velora, 42 languages</sub></td>
+</tr>
 </table>
 
 <br/>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+</p>
 
 ## Systems I've built
 
@@ -60,7 +60,7 @@ Replaced the standard Ultralytics wrapper with a hand-tuned native OpenVINO IR p
 - Multi-model switching persists detector state across streams without restarting FastAPI
 - Intrusion-zone alerts · 20Hz SSE telemetry dashboard · auto snapshot gallery · CSV export
 
-`Python` `FastAPI` `YOLOv8n-seg` `Intel OpenVINO` `WebSocket/SSE` `Tailwind CSS`
+`Python` `FastAPI` `YOLOv8n-seg` `Intel OpenVINO`
 → [github.com/ARJUN-AIML/YOLO-Vision-X](https://github.com/ARJUN-AIML/YOLO-Vision-X)
 
 </details>
@@ -78,7 +78,7 @@ Proof that not every retrieval system needs a server round-trip. Vectorization, 
 | Typo tolerance | Damerau-Levenshtein fuzzy correction + synonym expansion |
 | Infrastructure | Zero — 100% offline-functional after first load |
 
-`React 19` `Vite 8` `Tailwind v4` `Framer Motion` `Vanilla NLP`
+`React 19` `Vite 8` `Tailwind v4`
 → [github.com/ARJUN-AIML/AnswerFlow](https://github.com/ARJUN-AIML/AnswerFlow) · [Live](https://answerflow-chi.vercel.app)
 
 </details>
@@ -93,7 +93,7 @@ Groq's low-latency inference paired with cultural/linguistic context, deployed s
 - `useRef`-based race-condition guards prevent stale state on rapid concurrent requests
 - 4-tier TTS voice fallback chain · one call returns translation + explanation + cultural context
 
-`React 19` `Vite` `Netlify Functions` `Groq API`
+`React 19` `Netlify Functions` `Groq API`
 → [github.com/ARJUN-AIML/Velora](https://github.com/ARJUN-AIML/Velora) · [Live](https://velora-ai-translator.netlify.app)
 
 </details>
@@ -104,10 +104,30 @@ Groq's low-latency inference paired with cultural/linguistic context, deployed s
 
 Pomodoro, flashcards, mock tests, analytics, and Groq-driven scheduling recommendations — ideated, built, and deployed inside one competition window.
 
-`React` `Node.js` `Flask` `Firebase` `Groq API`
+`React` `Flask` `Firebase` `Groq API`
 → [github.com/ARJUN-AIML/AI-Study-Planner](https://github.com/ARJUN-AIML/AI-Study-Planner)
 
 </details>
+
+<br/>
+
+## Core stack
+
+<div align="center">
+
+<sub>the tools I actually ship production work with — not a badge dump</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,react,fastapi,java,mongodb,tensorflow&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Groq_API-000000?style=for-the-badge&logo=lightning&logoColor=A78BFA&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=googlegemini&logoColor=A78BFA&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Intel_OpenVINO-000000?style=for-the-badge&logo=intel&logoColor=A78BFA&labelColor=1a1a2e" />
+
+</div>
 
 <br/>
 
@@ -118,20 +138,14 @@ Computer Vision         ██████████████████�
 LLM Integration          ████████████████░░░░  Applied      — Groq + Gemini, multi-provider
 Information Retrieval    ████████████████░░░░  Applied      — zero-dependency TF-IDF/BM25 engine
 Agentic AI                ██████████████░░░░░░  Applied      — Google ADK, multi-agent orchestration
-Generative AI              ██████████████░░░░░░  Applied      — structured extraction under variance
-Classical ML                ████████████░░░░░░░░  Foundational — LightGBM, Random Forest, sklearn
-Deep Learning                ████████████░░░░░░░░  Foundational — TF/Keras CNNs, transfer learning
+Deep Learning               ████████████░░░░░░░░  Foundational — TF/Keras CNNs, transfer learning
 ```
 
 <br/>
 
-## Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,mysql,react,vite,tailwind,nodejs,express,fastapi,flask,mongodb,firebase,git,github,linux,vscode&theme=dark&perline=9" />
-</div>
-
-<br/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+</p>
 
 ## Experience
 
@@ -149,7 +163,6 @@ Delivered 3 production-ready Java modules — OOP architecture, custom exception
 | 🏆 Smart India Hackathon 2025 | National-level team submission, full problem-to-solution build |
 | ⚡ 6-Hour AI Hackathon | Shipped StudyOS end-to-end inside the competition window |
 | 🧮 Competitive Programming | 165+ problems — Arrays, DP, Hash Tables, Trees, Divide & Conquer |
-| 🔐 Cyber Security Workshop | NIT Tiruchirappalli — threat landscape & fundamentals |
 | 📈 Systems Engineering | 51% inference latency reduction, production edge CV pipeline |
 
 <details>
@@ -159,10 +172,8 @@ Delivered 3 production-ready Java modules — OOP architecture, custom exception
 - Oracle — Generative AI Professional
 - Oracle — AI Foundations Associate
 - NPTEL — GPU Architectures & Programming
-- NPTEL — Programming in Java
 - IBM SkillsBuild — AI Fundamentals
 - Infosys Springboard — Artificial Intelligence
-- MongoDB — AI Fundamentals
 
 </details>
 
@@ -187,9 +198,6 @@ Delivered 3 production-ready Java modules — OOP architecture, custom exception
 building:
   - Tasketic         # MERN productivity system — Milestone 2C+
   - RCMS             # Java/Spring Boot MVC, role-based paper workflows
-learning:
-  - Distributed systems design for AI-heavy backends
-  - ONNX Runtime & advanced OpenVINO optimization
 open_to:
   - AI/ML Internship · Software Engineering Internship · Research Internship
 ```
