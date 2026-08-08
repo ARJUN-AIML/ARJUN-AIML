@@ -48,47 +48,45 @@ I'd rather hand you one system with a benchmark than five projects with none.
 
 ## `02` Stack
 
-<sub>hover any icon</sub>
+<sub>hover any badge</sub>
 
 <br/><br/>
 
-<img title="Python" width="42" src="https://skillicons.dev/icons?i=python" />
-<img title="Java" width="42" src="https://skillicons.dev/icons?i=java" />
-<img title="JavaScript" width="42" src="https://skillicons.dev/icons?i=js" />
-<img title="C++" width="42" src="https://skillicons.dev/icons?i=cpp" />
-<img title="MySQL" width="42" src="https://skillicons.dev/icons?i=mysql" />
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<img title="React" width="42" src="https://skillicons.dev/icons?i=react" />
-<img title="Vite" width="42" src="https://skillicons.dev/icons?i=vite" />
-<img title="Tailwind CSS" width="42" src="https://skillicons.dev/icons?i=tailwind" />
-<img title="HTML5" width="42" src="https://skillicons.dev/icons?i=html" />
-<img title="CSS3" width="42" src="https://skillicons.dev/icons?i=css" />
+<img title="Python" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=D4AF37" />
+<img title="Java" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=openjdk&logoColor=D4AF37" />
+<img title="JavaScript" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=javascript&logoColor=D4AF37" />
+<img title="C++" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=cplusplus&logoColor=D4AF37" />
+<img title="MySQL" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=mysql&logoColor=D4AF37" />
+<img title="React" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=D4AF37" />
+<img title="Vite" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=vite&logoColor=D4AF37" />
+<img title="Tailwind CSS" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=tailwindcss&logoColor=D4AF37" />
+<img title="HTML5" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=D4AF37" />
+<img title="CSS3" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=D4AF37" />
 
 <br/><br/>
 
-<img title="Node.js" width="42" src="https://skillicons.dev/icons?i=nodejs" />
-<img title="Express" width="42" src="https://skillicons.dev/icons?i=express" />
-<img title="FastAPI" width="42" src="https://skillicons.dev/icons?i=fastapi" />
-<img title="Flask" width="42" src="https://skillicons.dev/icons?i=flask" />
-<img title="Spring Boot" width="42" src="https://skillicons.dev/icons?i=spring" />
-<img title="MongoDB" width="42" src="https://skillicons.dev/icons?i=mongodb" />
-<img title="Firebase" width="42" src="https://skillicons.dev/icons?i=firebase" />
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<img title="PyTorch" width="42" src="https://skillicons.dev/icons?i=pytorch" />
-<img title="TensorFlow" width="42" src="https://skillicons.dev/icons?i=tensorflow" />
-<img title="OpenCV" width="42" src="https://skillicons.dev/icons?i=opencv" />
-<img title="scikit-learn" width="42" src="https://skillicons.dev/icons?i=sklearn" />
+<img title="Node.js" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=nodedotjs&logoColor=D4AF37" />
+<img title="Express" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=D4AF37" />
+<img title="FastAPI" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=fastapi&logoColor=D4AF37" />
+<img title="Flask" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=flask&logoColor=D4AF37" />
+<img title="Spring Boot" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=springboot&logoColor=D4AF37" />
+<img title="MongoDB" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=mongodb&logoColor=D4AF37" />
+<img title="Firebase" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=firebase&logoColor=D4AF37" />
+<img title="PyTorch" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=pytorch&logoColor=D4AF37" />
+<img title="TensorFlow" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=tensorflow&logoColor=D4AF37" />
+<img title="OpenCV" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=opencv&logoColor=D4AF37" />
+<img title="scikit-learn" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=scikitlearn&logoColor=D4AF37" />
 
 <br/><br/>
 
-<img title="Docker" width="42" src="https://skillicons.dev/icons?i=docker" />
-<img title="Vercel" width="42" src="https://skillicons.dev/icons?i=vercel" />
-<img title="Netlify" width="42" src="https://skillicons.dev/icons?i=netlify" />
-<img title="Git" width="42" src="https://skillicons.dev/icons?i=git" />
-<img title="GitHub" width="42" src="https://skillicons.dev/icons?i=github" />
-<img title="VS Code" width="42" src="https://skillicons.dev/icons?i=vscode" />
-<img title="Postman" width="42" src="https://skillicons.dev/icons?i=postman" />
-<img title="Linux" width="42" src="https://skillicons.dev/icons?i=linux" />
+<img title="Docker" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=docker&logoColor=D4AF37" />
+<img title="Vercel" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=D4AF37" />
+<img title="Netlify" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=netlify&logoColor=D4AF37" />
+<img title="Git" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=D4AF37" />
+<img title="GitHub" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=D4AF37" />
+<img title="VS Code" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=visualstudiocode&logoColor=D4AF37" />
+<img title="Postman" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=postman&logoColor=D4AF37" />
+<img title="Linux" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=D4AF37" />
 
 <br/><br/>
 
