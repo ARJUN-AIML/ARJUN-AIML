@@ -1,6 +1,6 @@
 <div align="center">
 
-# ARJUN S
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=44&duration=1&pause=999999&color=D4AF37&center=true&vCenter=true&width=500&height=60&lines=ARJUN+S;&repeat=false" alt="name" />
 
 <a href="https://github.com/ARJUN-AIML">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1400&color=D4AF37&center=true&vCenter=true&width=780&lines=Backend+Engineer;Machine+Learning+Engineer;Full-Stack+Developer" alt="Typing SVG" />
