@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:0D0D0D&height=260&section=header&text=ARJUN%20S&fontSize=68&fontColor=F5D67B&fontAlignY=38&desc=Backend%20%2F%20ML%20Systems%20Engineer%20%E2%80%94%20Edge%20Inference%20%26%20Retrieval&descAlignY=58&descAlign=50&animation=fadeIn" />
-
-<br/>
+# ARJUN S
 
 <a href="https://github.com/ARJUN-AIML">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1400&color=D4AF37&center=true&vCenter=true&width=780&lines=Backend+Engineer;Machine+Learning+Engineer;Full-Stack+Developer" alt="Typing SVG" />
@@ -16,9 +14,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/arjun-s-aiml"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000" /></a>
-<a href="mailto:arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000" /></a>
-<a href="https://github.com/ARJUN-AIML"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" /></a>
+<a href="https://www.linkedin.com/in/arjun-s-aiml"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/ARJUN-AIML"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -236,5 +234,3 @@ open_to:
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=8A6D1E&center=true&vCenter=true&width=600&lines=Production+quality+is+not+a+feature.+It's+the+default." alt="signature" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:000000&height=140&section=footer" />
