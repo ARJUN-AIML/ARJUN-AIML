@@ -205,7 +205,6 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 
 ```yaml
 building:
-  - Tasketic — MERN productivity system, milestone 2C+
   - RCMS — conference management, Java / Spring Boot
 
 exploring:
