@@ -16,7 +16,6 @@
 
 <br/><br/>
 
-<a href="https://arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://www.linkedin.com/in/arjun-s-aiml"><img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
 <a href="mailto:arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/ARJUN-AIML"><img src="https://img.shields.io/badge/GitHub-ARJUN--AIML-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
@@ -46,11 +45,11 @@ Every project I ship follows the same loop: identify a real bottleneck, design a
 **What that looks like in practice:**
 
 - 🧠 Designing inference pipelines optimized for CPU-bound, edge-constrained environments — not just GPU benchmarks
-- 🏗️ Structuring backend services (FastAPI, Node/Express, Flask) with clear domain boundaries, not monoliths
+- 🏗️ Structuring backend services (FastAPI, Node/Express, Flask, Spring Boot) with clear domain boundaries, not monoliths
 - 🔍 Building retrieval and search systems where correctness and latency are both first-class requirements
+- 🤖 Orchestrating multi-agent systems with defined root/sub-agent/tool boundaries, not prompt chains
 - 🌐 Shipping full-stack products end-to-end — frontend, backend, deployment, and documentation
 - 📊 Treating every project like a system with SLAs — even when the "client" is a hackathon judge or a recruiter
-- 🧮 Backing engineering claims with numbers — 165+ solved on LeetCode, real latency benchmarks, zero-defect code reviews
 
 I care about **engineering judgment** over trend-chasing: I'd rather ship one system with a real performance story (`270ms → 132ms`) than five demos with no benchmarks.
 
@@ -84,7 +83,7 @@ I care about **engineering judgment** over trend-chasing: I'd rather ship one sy
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,firebase,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,mongodb,firebase,mysql&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
@@ -106,6 +105,7 @@ I care about **engineering judgment** over trend-chasing: I'd rather ship one sy
 | **LLM Integration** | Applied — multi-provider | Groq API, Gemini API (`google-genai` SDK), prompt-engineered translation & explanation pipelines |
 | **NLP / Information Retrieval** | Applied — zero-dependency engine | Custom TF-IDF + cosine similarity, BM25-style IDF weighting, Damerau-Levenshtein fuzzy correction |
 | **Agentic AI** | Applied — multi-agent orchestration | Google ADK, LiteLlm, root-agent/sub-agent/tool architecture (self-correcting code review agent) |
+| **RAG Systems** | Applied — production deployment | Retrieval pipeline powering a live, multi-role campus portal |
 | **Generative AI** | Applied | Prompt engineering, structured JSON extraction pipelines, response-variance handling |
 | **Classical ML** | Foundational | LightGBM, Random Forest, scikit-learn — structured data modeling & feature engineering |
 | **Deep Learning** | Foundational | TensorFlow/Keras CNN/ANN design, transfer learning (GoogLeNet, SqueezeNet) |
@@ -134,6 +134,63 @@ Real-time object detection and tracking system engineered for **CPU-only edge de
 | **Security** | Validate-before-commit camera switching — stream never drops to black screen on hardware failure |
 | **Impact** | Multi-model switching persists detector state across streams without restarting the FastAPI server; intrusion-zone alerts, 20Hz SSE telemetry dashboard, auto snapshot gallery, on-demand CSV export |
 | **Repository** | [github.com/ARJUN-AIML/YOLO-Vision-X](https://github.com/ARJUN-AIML/YOLO-Vision-X) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🕵️ Mirage — Browser-Based Scam & Threat Detection Platform</b></summary>
+<br/>
+
+"Discern the Real." Five independent scanner modules assess link and domain legitimacy in real time — built to catch what a casual glance misses, without sending user data to a third-party blacklist API.
+
+| | |
+|---|---|
+| **Stack** | React · Vite · Tailwind CSS · FastAPI |
+| **Scale** | 5 scanner modules: SSL inspection, DNS lookup, domain age, redirect chain analysis, pattern heuristics |
+| **Performance** | Real SSL certificate inspection and live DNS resolution, not cached/mocked lookups |
+| **Security** | Core value proposition — every scanner performs genuine network-level checks |
+| **Impact** | Composite risk scoring across all five modules for a single actionable verdict |
+| **Repository** | [github.com/ARJUN-AIML](https://github.com/ARJUN-AIML) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🤖 Self-Correcting Code Review Agent — Multi-Agent Orchestration</b></summary>
+<br/>
+
+Agentic code review system built on Google's Agent Development Kit, structured as root-agent/sub-agent/tool layers rather than a single long prompt — the review agent critiques and revises its own output before returning it.
+
+| | |
+|---|---|
+| **Stack** | Python · Google ADK · LiteLlm · Groq API |
+| **Scale** | Root agent delegates to specialized sub-agents, each bound to scoped tools |
+| **Performance** | Self-correction loop catches and revises flawed initial review output before delivery |
+| **Security** | Clear agent/tool boundaries prevent scope creep across the orchestration graph |
+| **Impact** | Demonstrates production agentic-architecture patterns beyond single-shot LLM calls |
+| **Repository** | [github.com/ARJUN-AIML](https://github.com/ARJUN-AIML) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎓 SCE Student Portal — Live Multi-Role RAG Campus Platform</b></summary>
+<br/>
+
+Live, multi-role campus platform co-built with Madhav Padmesh S, using retrieval-augmented generation to answer student queries grounded in actual college data rather than a static FAQ.
+
+| | |
+|---|---|
+| **Stack** | Full-stack web · RAG pipeline · Role-based access control |
+| **Scale** | Multi-role architecture (student / faculty / admin) deployed live |
+| **Performance** | RAG grounding keeps answers tied to real campus data, not hallucinated generalities |
+| **Security** | Role-based access separates student, faculty, and admin data paths |
+| **Impact** | In active use, not a demo — real students querying real campus information |
+| **Repository** | [github.com/ARJUN-AIML](https://github.com/ARJUN-AIML) |
 
 </details>
 
@@ -280,9 +337,6 @@ Delivered 3 production-ready Java modules — OOP architecture, custom exception
 <div align="center">
 
 <a href="https://leetcode.com/u/Arjun_AIML/"><img src="https://img.shields.io/badge/LeetCode-165%2B_Solved-2D1B4E?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2D1B4E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-2D1B4E?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-2D1B4E?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
 
 </div>
 
@@ -374,7 +428,7 @@ current_focus:
 
   building:
     - Tasketic — MERN-stack minimalist productivity system (Milestone 2C+)
-    - Research Conference Management System (Java / Spring Boot, role-based workflows)
+    - RCMS — Research Conference Management System (Java / Spring Boot, role-based workflows)
 
   exploring:
     - Multi-agent orchestration patterns (Google ADK)
@@ -403,7 +457,6 @@ current_focus:
 <a href="mailto:arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://www.linkedin.com/in/arjun-s-aiml"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/ARJUN-AIML"><img src="https://img.shields.io/badge/GitHub-ARJUN--AIML-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
 
 </div>
 
