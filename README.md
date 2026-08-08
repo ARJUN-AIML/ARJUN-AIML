@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/ARJUN-AIML">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1400&color=D4AF37&center=true&vCenter=true&width=780&lines=270ms+%E2%86%92+132ms.+Numbers%2C+not+adjectives.;CPU-bound+inference%2C+zero-dependency+retrieval.;I+ship+systems.+Not+demos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1400&color=D4AF37&center=true&vCenter=true&width=780&lines=Backend+Engineer;Machine+Learning+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -48,45 +48,45 @@ I'd rather hand you one system with a benchmark than five projects with none.
 
 ## `02` Stack
 
-<sub>hover any badge</sub>
+<sub>hover any icon</sub>
 
 <br/><br/>
 
-<img title="Python" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=D4AF37" />
-<img title="Java" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=openjdk&logoColor=D4AF37" />
-<img title="JavaScript" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=javascript&logoColor=D4AF37" />
-<img title="C++" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=cplusplus&logoColor=D4AF37" />
-<img title="MySQL" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=mysql&logoColor=D4AF37" />
-<img title="React" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=D4AF37" />
-<img title="Vite" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=vite&logoColor=D4AF37" />
-<img title="Tailwind CSS" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=tailwindcss&logoColor=D4AF37" />
-<img title="HTML5" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=D4AF37" />
-<img title="CSS3" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=D4AF37" />
+<img title="Python" width="48" height="48" src="https://skillicons.dev/icons?i=python" />
+<img title="Java" width="48" height="48" src="https://skillicons.dev/icons?i=java" />
+<img title="JavaScript" width="48" height="48" src="https://skillicons.dev/icons?i=js" />
+<img title="C++" width="48" height="48" src="https://skillicons.dev/icons?i=cpp" />
+<img title="MySQL" width="48" height="48" src="https://skillicons.dev/icons?i=mysql" />
+<img title="React" width="48" height="48" src="https://skillicons.dev/icons?i=react" />
+<img title="Vite" width="48" height="48" src="https://skillicons.dev/icons?i=vite" />
+<img title="Tailwind CSS" width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" />
+<img title="HTML5" width="48" height="48" src="https://skillicons.dev/icons?i=html" />
+<img title="CSS3" width="48" height="48" src="https://skillicons.dev/icons?i=css" />
 
 <br/><br/>
 
-<img title="Node.js" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=nodedotjs&logoColor=D4AF37" />
-<img title="Express" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=D4AF37" />
-<img title="FastAPI" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=fastapi&logoColor=D4AF37" />
-<img title="Flask" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=flask&logoColor=D4AF37" />
-<img title="Spring Boot" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=springboot&logoColor=D4AF37" />
-<img title="MongoDB" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=mongodb&logoColor=D4AF37" />
-<img title="Firebase" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=firebase&logoColor=D4AF37" />
-<img title="PyTorch" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=pytorch&logoColor=D4AF37" />
-<img title="TensorFlow" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=tensorflow&logoColor=D4AF37" />
-<img title="OpenCV" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=opencv&logoColor=D4AF37" />
-<img title="scikit-learn" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=scikitlearn&logoColor=D4AF37" />
+<img title="Node.js" width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" />
+<img title="Express" width="48" height="48" src="https://skillicons.dev/icons?i=express" />
+<img title="FastAPI" width="48" height="48" src="https://skillicons.dev/icons?i=fastapi" />
+<img title="Flask" width="48" height="48" src="https://skillicons.dev/icons?i=flask" />
+<img title="Spring Boot" width="48" height="48" src="https://skillicons.dev/icons?i=spring" />
+<img title="MongoDB" width="48" height="48" src="https://skillicons.dev/icons?i=mongodb" />
+<img title="Firebase" width="48" height="48" src="https://skillicons.dev/icons?i=firebase" />
+<img title="PyTorch" width="48" height="48" src="https://skillicons.dev/icons?i=pytorch" />
+<img title="TensorFlow" width="48" height="48" src="https://skillicons.dev/icons?i=tensorflow" />
+<img title="OpenCV" width="48" height="48" src="https://skillicons.dev/icons?i=opencv" />
+<img title="scikit-learn" width="48" height="48" src="https://skillicons.dev/icons?i=sklearn" />
 
 <br/><br/>
 
-<img title="Docker" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=docker&logoColor=D4AF37" />
-<img title="Vercel" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=D4AF37" />
-<img title="Netlify" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=netlify&logoColor=D4AF37" />
-<img title="Git" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=D4AF37" />
-<img title="GitHub" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=D4AF37" />
-<img title="VS Code" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=visualstudiocode&logoColor=D4AF37" />
-<img title="Postman" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=postman&logoColor=D4AF37" />
-<img title="Linux" height="32" src="https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=D4AF37" />
+<img title="Docker" width="48" height="48" src="https://skillicons.dev/icons?i=docker" />
+<img title="Vercel" width="48" height="48" src="https://skillicons.dev/icons?i=vercel" />
+<img title="Netlify" width="48" height="48" src="https://skillicons.dev/icons?i=netlify" />
+<img title="Git" width="48" height="48" src="https://skillicons.dev/icons?i=git" />
+<img title="GitHub" width="48" height="48" src="https://skillicons.dev/icons?i=github" />
+<img title="VS Code" width="48" height="48" src="https://skillicons.dev/icons?i=vscode" />
+<img title="Postman" width="48" height="48" src="https://skillicons.dev/icons?i=postman" />
+<img title="Linux" width="48" height="48" src="https://skillicons.dev/icons?i=linux" />
 
 <br/><br/>
 
