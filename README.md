@@ -28,11 +28,11 @@
 
 ## `01` About
 
-Third-year CSE undergrad, biased toward backend and inference-layer engineering over demo-layer polish.
+Backend and Machine Learning Engineer specializing in production-grade, latency-optimized systems. Currently pursuing a B.E. in Computer Science and Engineering (AI & ML) at Saranathan College of Engineering.
 
-The pattern across everything I've shipped: find a real bottleneck, build against actual constraints — latency budget, memory ceiling, cost — then measure the delta instead of assuming one. That's where `270ms → 132ms` on an edge detection pipeline and sub-14ms client-side search both came from.
+My work focuses on the operational layer of intelligent systems — inference optimization, retrieval architecture, and backend design under real constraints: latency, memory, and cost. This approach has produced measurable outcomes, including a 51% reduction in CPU inference latency on an edge deployment and a sub-14ms client-side retrieval engine.
 
-I'd rather hand you one system with a benchmark than five projects with none.
+I approach engineering as a discipline of evidence: every claim is backed by a benchmark, and every system is built to hold up beyond the demo.
 
 <br/>
 
@@ -176,11 +176,6 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARJUN-AIML&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=F5D67B" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-AIML&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=F5D67B" />
-
-<br/>
-
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARJUN-AIML&theme=radical&hide_border=true&background=000000&ring=D4AF37&fire=F5D67B&currStreakLabel=F5D67B" />
 
 <br/>
@@ -205,6 +200,7 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 
 ```yaml
 building:
+  - Tasketic — MERN productivity system, milestone 2C+
   - RCMS — conference management, Java / Spring Boot
 
 exploring:
@@ -230,6 +226,6 @@ open_to:
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=8A6D1E&center=true&vCenter=true&width=600&lines=Production+quality+is+not+a+feature.+It's+the+default." alt="signature" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=8A6D1E&center=true&vCenter=true&width=600&lines=I+can+do+this+all+day%21%21" alt="signature" />
 
 </div>
