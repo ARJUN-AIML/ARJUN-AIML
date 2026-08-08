@@ -30,15 +30,11 @@
 
 ## `01` About
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
 Third-year CSE undergrad, biased toward backend and inference-layer engineering over demo-layer polish.
 
 The pattern across everything I've shipped: find a real bottleneck, build against actual constraints — latency budget, memory ceiling, cost — then measure the delta instead of assuming one. That's where `270ms → 132ms` on an edge detection pipeline and sub-14ms client-side search both came from.
 
 I'd rather hand you one system with a benchmark than five projects with none.
-
-<br clear="right"/>
 
 <br/>
 
@@ -48,47 +44,59 @@ I'd rather hand you one system with a benchmark than five projects with none.
 
 ## `02` Stack
 
-<sub>hover any icon</sub>
+<br/>
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=F89820" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 
 <br/><br/>
 
-<img title="Python" width="48" height="48" src="https://skillicons.dev/icons?i=python" />
-<img title="Java" width="48" height="48" src="https://skillicons.dev/icons?i=java" />
-<img title="JavaScript" width="48" height="48" src="https://skillicons.dev/icons?i=js" />
-<img title="C++" width="48" height="48" src="https://skillicons.dev/icons?i=cpp" />
-<img title="MySQL" width="48" height="48" src="https://skillicons.dev/icons?i=mysql" />
-<img title="React" width="48" height="48" src="https://skillicons.dev/icons?i=react" />
-<img title="Vite" width="48" height="48" src="https://skillicons.dev/icons?i=vite" />
-<img title="Tailwind CSS" width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" />
-<img title="HTML5" width="48" height="48" src="https://skillicons.dev/icons?i=html" />
-<img title="CSS3" width="48" height="48" src="https://skillicons.dev/icons?i=css" />
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
 
 <br/><br/>
 
-<img title="Node.js" width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" />
-<img title="Express" width="48" height="48" src="https://skillicons.dev/icons?i=express" />
-<img title="FastAPI" width="48" height="48" src="https://skillicons.dev/icons?i=fastapi" />
-<img title="Flask" width="48" height="48" src="https://skillicons.dev/icons?i=flask" />
-<img title="Spring Boot" width="48" height="48" src="https://skillicons.dev/icons?i=spring" />
-<img title="MongoDB" width="48" height="48" src="https://skillicons.dev/icons?i=mongodb" />
-<img title="Firebase" width="48" height="48" src="https://skillicons.dev/icons?i=firebase" />
-<img title="PyTorch" width="48" height="48" src="https://skillicons.dev/icons?i=pytorch" />
-<img title="TensorFlow" width="48" height="48" src="https://skillicons.dev/icons?i=tensorflow" />
-<img title="OpenCV" width="48" height="48" src="https://skillicons.dev/icons?i=opencv" />
-<img title="scikit-learn" width="48" height="48" src="https://skillicons.dev/icons?i=sklearn" />
+**Backend & Databases**
+
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 
 <br/><br/>
 
-<img title="Docker" width="48" height="48" src="https://skillicons.dev/icons?i=docker" />
-<img title="Vercel" width="48" height="48" src="https://skillicons.dev/icons?i=vercel" />
-<img title="Netlify" width="48" height="48" src="https://skillicons.dev/icons?i=netlify" />
-<img title="Git" width="48" height="48" src="https://skillicons.dev/icons?i=git" />
-<img title="GitHub" width="48" height="48" src="https://skillicons.dev/icons?i=github" />
-<img title="VS Code" width="48" height="48" src="https://skillicons.dev/icons?i=vscode" />
-<img title="Postman" width="48" height="48" src="https://skillicons.dev/icons?i=postman" />
-<img title="Linux" width="48" height="48" src="https://skillicons.dev/icons?i=linux" />
+**AI / ML**
+
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
 
 <br/><br/>
+
+**Cloud & Tools**
+
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
