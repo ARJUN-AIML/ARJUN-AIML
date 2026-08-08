@@ -148,29 +148,7 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 
 <br/>
 
-## `05` Numbers
-
-<br/>
-
-<div align="center">
-
-| | |
-|---|---|
-| **165+** | LeetCode problems — arrays, DP, hash tables, trees, divide & conquer |
-| **51%** | Inference latency cut on a production edge CV pipeline |
-| **0** | Production errors across Velora's live deployment |
-| **SIH 2025** | Smart India Hackathon — national-level team submission |
-| **6h** | Time to ship StudyOS, start to deploy |
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-## `06` Certifications
+## `05` Certifications
 
 <br/>
 
@@ -194,7 +172,7 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 
 <br/>
 
-## `07` Activity
+## `06` Activity
 
 <br/>
 
@@ -223,7 +201,7 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 
 <br/>
 
-## `08` Right Now
+## `07` Right Now
 
 <br/>
 
