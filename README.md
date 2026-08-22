@@ -83,11 +83,6 @@ I approach engineering as a discipline of evidence: every claim is backed by a b
 **YOLO-Vision-X** — real-time object detection, CPU-only. Swapped the Ultralytics wrapper for a hand-optimized OpenVINO IR pipeline: `270ms → 132ms`, 51% cut, no GPU. 80-class tracking with persistent IDs, multi-stream switching that doesn't restart the server, intrusion-zone alerts over SSE.
 [`repo`](https://github.com/ARJUN-AIML/YOLO-Vision-X)
 
-**Mirage** — "Discern the Real." Browser-based scam detector, five scanner modules doing genuine SSL inspection and live DNS resolution — not a cached blacklist lookup.
-[`repo`](https://github.com/ARJUN-AIML)
-
-**Self-Correcting Code Review Agent** — built on Google ADK as root-agent → sub-agent → tool, not one long prompt. The agent critiques and revises its own review before returning it.
-[`repo`](https://github.com/ARJUN-AIML)
 
 **SCE Student Portal** — live, multi-role campus platform (with Madhav Padmesh S). Retrieval-grounded answers instead of a static FAQ. In actual use.
 [`repo`](https://github.com/ARJUN-AIML)
@@ -97,9 +92,6 @@ I approach engineering as a discipline of evidence: every claim is backed by a b
 
 **Velora** — 42-language translator on Groq inference, 111kB bundle, zero production errors. Race-condition guards on rapid concurrent requests.
 [`repo`](https://github.com/ARJUN-AIML/Velora) · [`demo`](https://velora-ai-translator.netlify.app)
-
-**StudyOS** — full-stack study planner, ideated and deployed inside a 6-hour hackathon window. Pomodoro, flashcards, analytics-driven scheduling.
-[`repo`](https://github.com/ARJUN-AIML/AI-Study-Planner)
 
 <br/>
 
