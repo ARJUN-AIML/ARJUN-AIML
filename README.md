@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=800&size=48&duration=1&pause=999999&color=D4AF37&center=true&vCenter=true&width=500&height=65&lines=ARJUN+S;&repeat=false" alt="name" />
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=800&size=48&duration=1&pause=999999&color=2DD4BF&center=true&vCenter=true&width=500&height=65&lines=ARJUN+S;&repeat=false" alt="name" />
 
 <a href="https://github.com/ARJUN-AIML">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1400&color=D4AF37&center=true&vCenter=true&width=780&lines=Generative+AI+Engineer;DevOps+Engineer;Full-Stack+Developer;MLOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1400&color=2DD4BF&center=true&vCenter=true&width=780&lines=Generative+AI+Engineer;DevOps+Engineer;Full-Stack+Developer;MLOps+Engineer" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.E.-CSE_(AI_%26_ML)-141414?style=for-the-badge&labelColor=000000&color=B8860B" />
-<img src="https://img.shields.io/badge/Saranathan_College_of_Engineering-141414?style=for-the-badge&labelColor=000000&color=8A6D1E" />
-<img src="https://img.shields.io/badge/📍_Tiruchirappalli,_India-141414?style=for-the-badge&labelColor=000000&color=8A6D1E" />
+<img src="https://img.shields.io/badge/B.E.-CSE_(AI_%26_ML)-141414?style=for-the-badge&labelColor=000000&color=0F766E" />
+<img src="https://img.shields.io/badge/Saranathan_College_of_Engineering-141414?style=for-the-badge&labelColor=000000&color=115E59" />
+<img src="https://img.shields.io/badge/📍_Tiruchirappalli,_India-141414?style=for-the-badge&labelColor=000000&color=115E59" />
 
 <br/><br/>
 
@@ -131,8 +131,8 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 <img src="https://img.shields.io/badge/Oracle-Generative_AI_Professional-141414?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=000000" />
 <img src="https://img.shields.io/badge/Oracle-AI_Foundations_Associate-141414?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=000000" />
 <br/>
-<img src="https://img.shields.io/badge/NPTEL-GPU_Architectures-141414?style=for-the-badge&logo=googlescholar&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/NPTEL-Java-141414?style=for-the-badge&logo=googlescholar&logoColor=D4AF37&labelColor=000000" />
+<img src="https://img.shields.io/badge/NPTEL-GPU_Architectures-141414?style=for-the-badge&logo=googlescholar&logoColor=2DD4BF&labelColor=000000" />
+<img src="https://img.shields.io/badge/NPTEL-Java-141414?style=for-the-badge&logo=googlescholar&logoColor=2DD4BF&labelColor=000000" />
 <br/>
 <img src="https://img.shields.io/badge/IBM_SkillsBuild-141414?style=for-the-badge&logo=ibm&logoColor=054ADA&labelColor=000000" />
 <img src="https://img.shields.io/badge/Infosys_Springboard-141414?style=for-the-badge&logo=infosys&logoColor=007CC3&labelColor=000000" />
@@ -152,11 +152,11 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARJUN-AIML&theme=radical&hide_border=true&background=000000&ring=D4AF37&fire=F5D67B&currStreakLabel=F5D67B" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARJUN-AIML&theme=radical&hide_border=true&background=000000&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4" />
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARJUN-AIML&theme=react-dark&hide_border=true&bg_color=000000&color=D4AF37&line=B8860B&point=F5D67B" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARJUN-AIML&theme=react-dark&hide_border=true&bg_color=000000&color=2DD4BF&line=0F766E&point=5EEAD4" />
 
 <br/>
 
@@ -176,7 +176,6 @@ Three production Java modules — OOP hierarchies, custom exceptions, Collection
 
 ```yaml
 building:
-  - Tasketic — MERN productivity system, milestone 2C+
   - RCMS — conference management, Java / Spring Boot
 
 exploring:
@@ -196,12 +195,12 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000" /></a>
-<a href="https://www.linkedin.com/in/arjun-s-aiml"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000" /></a>
-<a href="https://github.com/ARJUN-AIML"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" /></a>
+<a href="mailto:arjunselvaraj0107@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=000000" /></a>
+<a href="https://www.linkedin.com/in/arjun-s-aiml"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=000000" /></a>
+<a href="https://github.com/ARJUN-AIML"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=000000" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=8A6D1E&center=true&vCenter=true&width=600&lines=I+can+do+this+all+day%21%21" alt="signature" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=0F766E&center=true&vCenter=true&width=600&lines=I+can+do+this+all+day%21%21" alt="signature" />
 
 </div>
